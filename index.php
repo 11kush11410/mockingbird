@@ -1,4 +1,4 @@
-echo ' <marquee> WECOME TO MY CLOUD WORLD </marquee> ';
+ <center> WECOME TO MY CLOUD WORLD </center> 
 <br />
 <pre>
 <?php
@@ -8,8 +8,7 @@ echo'
 </html>
 ';
 echo'
-<center> <h2> Terraform </h2> </center>
-     <p> Use Infrastructure as Code to provision and manage any cloud, infrastructure or service </p>
+<center> <h2> Great initiative by LinuxWorld Informatics Pvt. Ltd. Making India Future Ready </h2> </center>
 ';
 ?>
 </pre>
