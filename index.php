@@ -4,7 +4,7 @@ echo ' <marquee> WECOME TO MY CLOUD WORLD </marquee> ';
 <?php
 echo' 
 <html>
-<center> <img src="https://github.com/11kush11410/kushmania.git"  width="300" height="400">  </center>
+<center> <img src="https://github.com/11kush11410/asdf.git"  width="300" height="400">  </center>
 </html>
 ';
 echo'
