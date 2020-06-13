@@ -4,7 +4,7 @@
 <?php
 echo' 
 <html>
-<center> <img src="https://github.com/11kush11410/asdf.git"  width="300" height="400">  </center>
+<center> <img src="https://raw.githubusercontent.com/11kush11410/mockingbird/master/ibm-red-hat-leadspace.png">  </center>
 </html>
 ';
 echo'
